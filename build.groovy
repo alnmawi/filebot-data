@@ -9,5 +9,5 @@ files.each{ f ->
 	}.toSorted(String.CASE_INSENSITIVE_ORDER).unique(String.CASE_INSENSITIVE_ORDER)
 
 	println "${f.name}: ${lines.size()}"
-	f.setText(lines.join('\n'), 'UTF-8')
+	f.setText(lines.join(System.properties['line.separator']), 'UTF-8')
 }
