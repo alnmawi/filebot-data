@@ -1,7 +1,3 @@
-pctnew
-SCiENTOLOGY
-NORETAiL
-SPiCY
 0Ac
 0MNiDVD
 0PTiMUS
@@ -2332,6 +2328,7 @@ NORARS
 NORDIC.EDITION
 NORDIC.RELEASE
 NORDiCHD
+NORETAiL
 NOreVENUE
 NorTV
 NoSCR
@@ -2486,7 +2483,7 @@ PC
 PCH
 PCS
 pcsyndicate
-PctNew
+pctnew
 PDSG-Sentosha
 PeeWee
 PeKI
@@ -2874,6 +2871,7 @@ SCARED
 SCD
 Schitbusters
 SChiZO
+SCiENTOLOGY
 SCORN
 Scratch404
 SCRATCHED
@@ -3042,6 +3040,7 @@ SPEED
 SpeedStar
 sPHD
 Sphinctone1
+SPiCY
 SPiRO
 SPiROTV
 SPK
