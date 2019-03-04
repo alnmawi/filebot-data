@@ -1,4 +1,5 @@
 @midnight	At Midnight
+Australian Survivor	Survivor AU
 Battlestar Galactica (2003)	BSG
 Bordertown (2016)	Bordertown (US)
 Cosmos: A Spacetime Odyssey	Cosmos A Space Time Odyssey
@@ -16,6 +17,7 @@ NCIS: New Orleans	Navy CIS New Orleans	NCIS NO
 Once Upon a Time (2011)	OUaT
 Outsiders	Outsiders (2016)
 Proof (2015)	Proof (US)
+Rapunzel's Tangled Adventure	Tangled: The Series
 Resurrection	Resurrection (US)
 Scream	Scream The TV Series
 Sex&Drugs&Rock&Roll	Sex and Drugs and Rock and Roll
@@ -31,6 +33,7 @@ The Bridge (2013)	The Bridge (US)
 The Code (2014)	The Code (AU)
 The Inexplicable Universe	The Inexplicable Universe with Neil deGrasse Tyson
 The Late Late Show with Craig Ferguson	Craig Ferguson
+The Luxury Trap	Luksusfaelden
 The Nightly Show with Larry Wilmore	The Nightly Show
 The Walking Dead	TWD
 World Series of Poker	WSOP

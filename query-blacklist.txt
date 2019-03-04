@@ -14,6 +14,7 @@
 @KIDZ
 \d(Audio|CD|CDRip)
 \d+(of|.of.|.track.)\d+
+\d+.disk
 \d+[.,]\d+GB
 \d{2,4}.\d{2}.\d{2}.\d{2}.\d{2}
 \d{3,4}[pi]
@@ -25,6 +26,8 @@
 ^.*(Downloads|Movies|TV.Shows|TV.Series|FileBot)$
 ^3D$
 ^[_+=!].+$
+^\d+.disk$
+^\d+disk$
 ^\d.-.Complete$
 ^\w$
 ^ACD$
@@ -78,6 +81,7 @@
 ^dev$
 ^Die$
 ^Disco\d+$
+^disk.\d+$
 ^disk\d+$
 ^DL$
 ^Documentaries$
@@ -226,6 +230,7 @@
 ^Remux$
 ^Remuxed$
 ^rename$
+^Reseed$
 ^Review$
 ^rip$
 ^Rips$
@@ -569,6 +574,7 @@ ShareZONE
 ShortKut
 Shorts
 sixx
+Sky.Cinema.HD
 Snapshots
 sof
 Sonarr
@@ -633,6 +639,7 @@ Volume.TB
 vox
 wdr
 Western
+working.directory
 WS
 www[.][\p{Alnum}\p{Punct}]+?[.][a-z]{2,4}
 x0r
